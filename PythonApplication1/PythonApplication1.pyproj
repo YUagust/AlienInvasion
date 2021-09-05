@@ -39,6 +39,9 @@
     <Compile Include="button.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="scoreboard.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Settings.py">
       <SubType>Code</SubType>
     </Compile>
